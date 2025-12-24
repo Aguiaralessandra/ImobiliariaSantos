@@ -1,5 +1,43 @@
 body {
-  margin: 0 ;
-  font-family: Tahoma;
-
+    margin: 0;
+    font-family: Tahoma;
 }
+.secao{
+  text-align: center;
+  padding-top:20px;
+  padding-bottom:20px ;
+}
+.paragragrafo{
+  font-size: 18px;
+  text-align: justify;
+  line-height: 28px;
+  margin: 10px auto;
+  width: 900px;
+}
+/*=== Estilo do topo ===*/
+.top {
+  background-color: #afddfb;
+}
+
+.top img {
+width: 140;
+}
+.paragrafo-topo {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+.link-topo {
+  color: #1d1d1d;
+  font-size: 18px;
+  text-decoration: none;
+  margin:0 10px;
+  border-bottom: 2px solid #1d1d1d;
+}
+      /*=== 2ª secao ===*/
+
+      .banner { 
+      paddin-top: 0;
+       margin-bottom: 50px;
+      }
+  
